@@ -2,7 +2,7 @@
 
 **Hoc vien**: Tran Nhat Vi - 2A202600497 
 **Ngay nop**: 2026-05-07  
-**Submission option**: B (GitHub + links)
+**Submission option**: B GitHub
 
 ## 1. Setup
 
