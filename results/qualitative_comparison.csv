@@ -1,0 +1,6 @@
+prompt,base,finetuned,comment
+"Giai thich khai niem machine learning cho nguoi moi bat dau.","Dinh nghia tong quan, dung y chinh nhung dien dat kha dai.","Dien giai ro rang hon, bo cuc de theo doi hon.","FT cai thien do ro rang."
+"Viet doan code Python tinh so Fibonacci thu n.","Co dua code co ban.","Code co xu ly input va thong bao loi ro hon.","FT huu ich hon cho nguoi hoc."
+"Liet ke 5 nguyen tac thiet ke UI/UX.","Noi dung dung nhung trinh bay dai.","Trinh bay gon va huong hanh dong.","FT cai thien do mach lac."
+"Tom tat su khac biet giua LoRA va QLoRA.","Tra loi dung khai niem chung.","Dien dat sat ngu canh ky thuat hon.","FT dong bo style domain AI."
+"Phan biet prompt engineering, RAG, va fine-tuning.","So sanh day du nhung con chung chung.","So sanh theo cau truc ro rang, de ra quyet dinh.","FT tot hon cho task tu van ky thuat."
